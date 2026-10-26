@@ -175,19 +175,6 @@ The app opens at **http://localhost:8501**.
 
 ---
 
-## 📸 Screenshots
-
-> Add your screenshots to a `screenshots/` folder and update the file names below.
-
-| Home / Upload | Chat with Sources |
-|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Chat](screenshots/chat.png) |
-
-| Summary | Export |
-|:---:|:---:|
-| ![Summary](screenshots/summary.png) | ![Export](screenshots/export.png) |
-
----
 
 ## ⚠️ Limitations
 
@@ -210,7 +197,6 @@ The app opens at **http://localhost:8501**.
 
 **Muhammad Numan**
 AI Engineering Intern at **[CyberSNova](https://cybersnova.co.in)**
-Registration No.: `CSN-OC-2026-273`
 
 ---
 
